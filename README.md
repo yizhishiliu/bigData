@@ -97,7 +97,7 @@ Python3.9+各种库
 
 结果：
 
-![](https://github.com/Mingdaj/bigData/assets/130920375/ca84618a-66a4-4014-acaa-015169d23fb2)
+![](https://github.com/Mingdaj/bigData/assets/130920375/0711d566-8907-4dbe-ae20-511f2fb81d2e)
 
 天下没有免费的午餐，前后端代码+部署调试搞活动，详情加QQ咨询。前10名购买半价，另外有一些学习问题也可以一起交流，买到就是赚到！
 
